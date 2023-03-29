@@ -1,19 +1,17 @@
-# mineware
+# MINEWARE - FAKE Ransomware Program
 
-가짜 랜섬웨어 프로그램(암호화 X 데이터 손상 X 금전요구 X)
+No Encryption, No Data Corruption, No Money Demand)
 
-오직 파일 이름만 바꿀 뿐이며 그 어떤 암호화도 하지 않음(애초에 암호화 코드 X)
+It only renames maximum 5 files, no encryption whatsoever (NO encryption code in the code)
 
-파일을 원상복구 하시려면
+To restore the file,
 
-1. 일일히 파일 뒤쪽 확장자 지우거나(프로그램 뻑난경우)
+* Delete the extension at the end of each file individually (if the program is out of order)
 
-2. 지뢰찾기를 깨시거나(권장, 자동 실행됨)
+* Beat Minesweeper (recommended, auto-run)
 
-3. 걍 2분 기다리시면(못깨도됨)
+* Just wait 2 minutes (you don't have to beat with it)
 
-자동으로 원상복구 됩니다
+In celebration of April Fool's Day 2023...
 
-2023년 만우절 기념으로...
-
-ps. 즁간에 지뢰찾기 닫으면->그래도 2분 기다리면 원상복구 됨
+p.s. If you close Minesweeper in a while -> files will be restored after 2 minutes.
