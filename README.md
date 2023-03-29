@@ -1,6 +1,6 @@
 # MINEWARE - FAKE Ransomware Program
 
-No Encryption, No Data Corruption, No Money Demand)
+No Encryption, No Data Corruption, No Money Demand :-)
 
 It only renames maximum 5 files, no encryption whatsoever (NO encryption code in the code)
 
