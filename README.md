@@ -8,7 +8,7 @@ To restore the file,
 
 * Delete the extension at the end of each file individually (if the program is out of order)
 
-* Beat Minesweeper (recommended, auto-run)
+* Beat Minesweeper (recommended, auto-run, files will be restoredimmediately)
 
 * Just wait 2 minutes (you don't have to beat with it)
 
